@@ -8,7 +8,9 @@ This is an image below:
 
 # Remote Access Login Guide
 This guide will demonstrate how to log on to the `ieng6` server with your specific course account.
-
+\
+\
+\
 **1. Installing VSCode**
 
-test 123
+Simply navigate to [this site](https://code.visualstudio.com/) to download VSCode. Make sure that you download the correct version depending on the operating system you have. 
