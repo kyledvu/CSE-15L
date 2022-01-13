@@ -3,8 +3,8 @@ hello :)
 **This text is bold**
 # Big heading
 ## Smaller heading
-[funny cat video] (https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-![best guy] (https://assets.pokemon.com/assets/cms2/img/pokedex/full/363.png)
+[funny cat video](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+![best guy](https://assets.pokemon.com/assets/cms2/img/pokedex/full/363.png)
 > What's a blockquote?
 * make
 * a 
