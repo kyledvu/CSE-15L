@@ -3,8 +3,8 @@ hello :)
 **This text is bold**
 # Big heading
 ## Smaller heading
-[Link] https://www.youtube.com/watch?v=dQw4w9WgXcQ
-![Image] https://assets.pokemon.com/assets/cms2/img/pokedex/full/363.png
+[Link] (https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+![Image] (https://assets.pokemon.com/assets/cms2/img/pokedex/full/363.png)
 > What's a blockquote?
 * make
 * a 
@@ -13,7 +13,7 @@ hello :)
 2. numbered
 3. list
 ---
-`fancy code`
+`fancy code here`
 ```
 System.out.println("Hello World!");
 // more code here
