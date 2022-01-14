@@ -8,13 +8,13 @@ This is an image below:
 
 # Remote Access Login Guide
 This guide will demonstrate how to log on to the `ieng6` server with your specific UCSD course account.
-___
+---
 
 **1. Installing VSCode**
 
 Simply navigate to [this site](https://code.visualstudio.com/) to download VSCode. Make sure that you download the correct version depending on the operating system you have. The home page will look something like this:
 ![vscode-home-page](vscode-home.PNG)
-___
+---
 
 **2. Remotely Connecting**
 
@@ -26,13 +26,13 @@ ___
  
  Once you log in with your password, you may be prompted with a few questions; if this is your first time logging in, you should just answer yes to all of them. When you have successfully connected, you should see a screen similar to this:
  ![remote-login-screen](remote-login.PNG)
- ___
+ ---
 
  **3. Trying Some Commands**
 
 To make sure everything is working properly, try running some basic commands such as `ls`, `cd ~`, or `pwd`. `ls` will list the files in the current directory, `cd ~` will change the directory to the home directory, and `pwd` will display the path to the current directory. Here are some examples of running these commands below:
 ![running-example-commands](example-commands.PNG)
-___
+---
 
 **4. Moving Files with `scp`**
 
@@ -42,7 +42,7 @@ $ scp WhereAmI.java cs15lwi22zz@ieng6.ucsd.edu:~/
 ```
 Try running this command and then using `ssh` to log back into the remote server. Then, use the `ls` command to see if your file has successfully appeared there. It might look something like this:
 ![scp-photo](using-scp.PNG)
-___
+---
 
 **5. Setting an SSH Key** 
 
@@ -64,7 +64,7 @@ $ <logout>
 $ scp /Users/joe/.ssh/id_rsa.pub cs15lwi22@ieng6.ucsd.edu:~/.ssh/authorized_keys
 # You use your username and the path you saw in the command above
 ```
-___
+---
 
 **6. Optimizing Remote Running**
 
