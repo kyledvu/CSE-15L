@@ -10,7 +10,13 @@ three new tests to my `MarkdownParseTest.java` file, like so:
 
 ![mdparse-tests](./cse15l-lab-report-images/mdparse-tests.PNG)
 
-To determine the correct output for each test, I went by what [the CommonMark demo site](https://spec.commonmark.org/dingus/) considered a link and what it didn't. 
+To determine the correct output for each test, I went by what [the CommonMark demo site](https://spec.commonmark.org/dingus/) considered a link and what it didn't. Essentially, everything that appears as a link in the preview should be considered a link. 
+
+![t1-expected](./cse15l-lab-report-images/test-1-expected.PNG)
+
+![t2-expected](./cse15l-lab-report-images/test-2-expected.PNG)
+
+![t3-expected](./cse15l-lab-report-images/test-3-expected.PNG)
 
 For my implementation of `MarkdownParse`, I got the following output when running the tests:
 
